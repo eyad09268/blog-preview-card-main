@@ -18,8 +18,9 @@
   margin: auto;
   padding: 25px;
   border-radius: 15px;
-  box-shadow: 10px 10px 0px 0px black;
-}
+box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
+-moz-box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);}
 .card .h1 {
   text-align: left;
   padding-bottom: 12px;
